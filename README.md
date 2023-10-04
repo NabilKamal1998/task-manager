@@ -2,7 +2,7 @@
 
 **Project Description:**
 
-The project is a text-based implementation of the classic game "Rock Paper Scissors." It simulates a game where a player competes against the computer by choosing one of the three options: rock, paper, or scissors. The computer's choice is determined based on the chosen difficulty level. The game continues until either the player or the computer reaches a score of 4, declaring the winner.
+The Java Task Manager Application is a software tool designed to help users manage their tasks efficiently. It provides a user-friendly interface for creating, tracking, and organizing tasks. The core functionality of this application revolves around a Task class, which represents tasks with name and description attributes.
 
 **What i've done:**
 
